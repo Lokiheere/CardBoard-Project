@@ -1,17 +1,17 @@
 body {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(/img/UNOwallpaper.jpg);
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/UNOwallpaper.jpg);
     background-size: 50% auto;
     background-attachment: fixed;
 }
 
 .background1 {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(/img/UNOwallpaper.jpg);  
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/UNOwallpaper.jpg);  
     height: 100vh;
     background-size: 100% auto;
 }
 
 .background2 {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(/img/UNOwallpaper.jpg);  
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/UNOwallpaper.jpg);  
     height: 100%;
     background-size: 100% auto;
     z-index: 1;
