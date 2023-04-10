@@ -61,7 +61,7 @@ let listProducts = [
     {
         id: 6,
         name: 'About Us',
-        image: 'img/Cardboard-small.png',
+        image: 'img/Cardboard-1 (1).png',
         link: 'AboutUs.html',
         nature: {
             type: 'About'
