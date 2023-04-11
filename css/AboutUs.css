@@ -12,7 +12,7 @@ body {
 }
 
 .background2 {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/CardBoard-1\ \(1\).png);
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url("../img/CardBoard-1 (1).png");
     background-color: black;
     background-size: 25%;
     height: 100%;
