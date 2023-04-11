@@ -1,17 +1,17 @@
 body {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg);  
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(../img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg);  
     background-attachment: fixed;
     background-size: 50%;
 }
 
 .background1 {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg); 
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(../img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg); 
     background-size: cover; 
     height: 100vh;
 }
 
 .background2 {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg); 
+    background-image: linear-gradient(rgba(255, 0, 0, 0.5),rgba(255, 0, 0, 0.2)),url(../img/BS/angshu-purkait-IU4UKIfPqEQ-unsplash.jpg); 
     background-size: cover;  
     height: 100%;
     z-index: 1;
