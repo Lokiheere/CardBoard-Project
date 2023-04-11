@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 
 body{
-  background-image: linear-gradient(rgba(255, 0, 0, 0.6),rgba(255, 0, 0, 0.3)),url(img/istockphoto-1201021035-612x612.jpg);  
+  background-image: linear-gradient(rgba(255, 0, 0, 0.6),rgba(255, 0, 0, 0.3)),url(../img/istockphoto-1201021035-612x612.jpg);  
   background-attachment: fixed;
   font-family: Arial;
   font-size: 16px;
